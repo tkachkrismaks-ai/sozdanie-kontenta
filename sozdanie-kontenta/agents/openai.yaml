@@ -1,0 +1,4 @@
+interface:
+  display_name: "Создание контента товара"
+  short_description: "Главное фото, воронка и RICH для Ozon или WB"
+  default_prompt: "Используй $sozdanie-kontenta: создание контента для указанной модели товара."
